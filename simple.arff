@@ -1,0 +1,11 @@
+@relation basic
+@attribute a {0,1}
+@attribute b {0,1}
+@attribute c {0,1}
+@attribute class {0,1}
+@data 
+1,1,1,1
+0,1,1,0
+1,1,0,0
+1,0,0,0
+0,0,0,1
